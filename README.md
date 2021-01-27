@@ -1,5 +1,6 @@
 # 똑똑한 중고차 project
 <img width="1156" alt="스크린샷 2021-01-27 오후 7 58 51" src="https://user-images.githubusercontent.com/58969584/105982557-c9389e00-60da-11eb-851d-35474891fe6b.png">
+
 ## modeling Question
 ### 1. log가 필요한 이유
 - 가격이나 상품의 종류 등 중요한 정보를 변경할 때 그 이력을 저장하지 않으면 seller나 buyer와의 각종 이슈에서 확인할 방법이 없다고 생각합니다.
